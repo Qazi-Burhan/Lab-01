@@ -6,7 +6,8 @@ public class Main {
 
         System.out.println("Welcome to SE-312L Lab 01");
         System.out.println("Introduction to GitHub");
-        System.out.println("Learning Commit, Push and Pull Operations");
+        
+        System.out.println("Pull Request Practice - V2 Branch");
     }
 
 
